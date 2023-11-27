@@ -2,6 +2,7 @@
   "name": "test",
   "main": "app/app.js",
   "dependencies": {
-    "next": "^14.0.3"
+    "next": "^14.0.3",
+    "node": "^21.2.0"
   }
 }
