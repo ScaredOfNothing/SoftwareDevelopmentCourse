@@ -1,4 +1,5 @@
 # SoftwareDevelopmentCourse
 Repository for the Software Development coursre from Centria univeristy
 
-Lorem ipsum dolor sit
+
+Lorem ipsum dolor sit amet
