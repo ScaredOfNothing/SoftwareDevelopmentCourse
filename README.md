@@ -1,5 +1,4 @@
 # SoftwareDevelopmentCourse
 Repository for the Software Development coursre from Centria univeristy
 
-
-Lorem ipsum dolor sit amet
+This is a practice of CI/CD using GitHub
