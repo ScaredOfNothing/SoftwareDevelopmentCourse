@@ -1,4 +1,7 @@
 {
   "name": "test",
-  "main": "app.js"
+  "main": "app/app.js",
+  "dependencies": {
+    "next": "^14.0.3"
+  }
 }
